@@ -5,7 +5,7 @@ The list is based on Forbes.com's ranking as of August 2023 based on an analysis
 The data only has two features, the bank name and market capitalization in USD
 
 # Techniques & Features used in the project:
-1- Extraction of data in the website using Web Scarpping using BeautifulSoup package and requests
-2- Transformation of data for market capitalization to EURO, GBP and INR currency using pandas package
-3- Loading data to be saved to database and running some queries on it after step2, using sqlite3 package
-4- Log process function that it associated to the time after running each process using Datetime package
+- Extraction of data in the website using Web Scarpping using BeautifulSoup package and requests
+- Transformation of data for market capitalization to EURO, GBP and INR currency using pandas package
+- Loading data to be saved to database and running some queries on it after step2, using sqlite3 package
+- Log process function that it associated to the time after running each process using Datetime package
